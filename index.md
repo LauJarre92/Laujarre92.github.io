@@ -10,3 +10,4 @@ I also made a facebook frame, it's not too complicated and a fun project overall
 # Storyscape
 I created my storyscape, and found that it was really fun to make!
 ![https://patches.vizor.io/laujarre92/test-copy]
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/laujarre92/test-copy" ></script>
